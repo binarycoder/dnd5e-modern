@@ -813,7 +813,8 @@ DND5E.skills = {
   rel: "DND5E.SkillRel",
   slt: "DND5E.SkillSlt",
   ste: "DND5E.SkillSte",
-  sur: "DND5E.SkillSur"
+  sur: "DND5E.SkillSur",
+  tec: "DND5E.SkillTec",
 };
 preLocalize("skills", { sort: true });
 
